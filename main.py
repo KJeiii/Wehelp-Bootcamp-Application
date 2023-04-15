@@ -37,4 +37,4 @@ def effort():
 def talktalk():
     return render_template('talktalk.html')
 
-app.run(debug=True)
+app.run(port=7158, debug=True)
