@@ -7,7 +7,7 @@ Bootstrap(app)
 
 @app.route('/')
 def home():
-    return render_template('self.html')
+    return render_template('home.html')
 
 @app.route('/project')
 def project():
