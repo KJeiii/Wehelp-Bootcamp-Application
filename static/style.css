@@ -37,6 +37,23 @@ ol {
     background-color: rgb(234, 234, 234);
 }
 
+footer {
+    background-color: rgb(234, 234, 234);
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer i {
+    margin: 10px 20px;
+    font-size: 3em;
+    text-align: center;
+    color: black;
+}
+
+.copyright {
+    margin: 0;
+}
+
 /* home style */
 .home {
     margin-top: 50px;
