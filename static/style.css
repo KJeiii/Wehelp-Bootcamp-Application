@@ -33,6 +33,10 @@ ol {
     padding-left: 20px;
 }
 
+.navbar {
+    background-color: rgb(199, 199, 199);
+}
+
 /* home style */
 .home {
     margin-top: 50px;
