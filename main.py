@@ -34,4 +34,5 @@ def effort():
 def talktalk():
     return render_template('talktalk.html')
 
-# app.run()
+if __name__ == '__main__':
+    app.run()
